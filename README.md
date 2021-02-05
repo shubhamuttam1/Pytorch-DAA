@@ -1,2 +1,2 @@
 # Pytorch-DAA
-PyTorch implementation of DAA Blob algorithm
+## PyTorch implementation of Distributionally Adversarial Attack
